@@ -34,13 +34,9 @@ Frameworks, Dados & Ferramentas:
 
 ---
 
-Contato
-Tel: 55(31) 9 9064-9009
+Contato:
+Localização: Belo Horizonte, Minas Gerais — Brasil
+Tel: 55 (31) 9 9064-9009
 email: eduardopnevesdasilva@gmail.com
 linkedin: www.linkedin.com/in/eduardo-pereira-dev
 
-
-
-* **Localização:** Belo Horizonte, Minas Gerais — Brasil
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com) *(atualize com seu link)*
-* **E-mail:** seu-email@gmail.com *(atualize com seu e-mail)*
